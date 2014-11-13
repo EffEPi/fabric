@@ -1,4 +1,4 @@
 fabric
 ======
 
-again.. a new PHP framework/autoloader
+again.. a new PHP framework
